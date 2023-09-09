@@ -42,7 +42,7 @@ const About = () => {
         // Create a temporary anchor element to trigger the download
         const a = document.createElement('a');
         a.href = pdfPath;
-        a.download = 'example.pdf'; // Specify the file name
+        a.download = 'Sachini Wijekoon.pdf'; // Specify the file name
         a.style.display = 'none';
            
         // Append the anchor to the document and trigger the download
