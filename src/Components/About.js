@@ -37,7 +37,7 @@ const About = () => {
     }, [progressBars]);
 
     const handleDownload = () => {
-        const pdfPath = 'http://192.168.1.100:3001/Sachini%20Wijekoon.pdf'; 
+        const pdfPath = '/Sachini%20Wijekoon.pdf'; 
     
         // Create a temporary anchor element to trigger the download
         const a = document.createElement('a');
