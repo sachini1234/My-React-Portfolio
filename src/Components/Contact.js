@@ -51,15 +51,15 @@ function Contact() {
                 <Form className='p-4'>
                     <Row className="mb-3">
                         <Col>
-                            <Form.Control placeholder="First name" />
+                            <Form.Control placeholder="First name" required />
                         </Col>
                         <Col>
-                            <Form.Control placeholder="Last name" />
+                            <Form.Control placeholder="Last name" required />
                         </Col>
                     </Row>
-                    <Form.Control type="email" placeholder="Enter email" />
-                    <Form.Control placeholder="Subject" className='my-3' />
-                    <Form.Control as="textarea" rows={7} placeholder="Enter Your Message" />
+                    <Form.Control type="email" placeholder="Enter email" required />
+                    <Form.Control placeholder="Subject" className='my-3' required />
+                    <Form.Control as="textarea" rows={7} placeholder="Enter Your Message" required />
                     <Button variant="warning" type="submit" className='mt-4'>Submit</Button>
                 </Form>
             </div>
