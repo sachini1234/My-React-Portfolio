@@ -245,7 +245,7 @@ color: var(--nav-links-hover-color);
 }
 
 .projects .card:hover {
-    height: 380px;
+    height: 405px;
     cursor: pointer;
 }
 
@@ -288,7 +288,7 @@ color: var(--nav-links-hover-color);
 
 .projects .card:hover .content {
     top: 130px;
-    height: 250px;
+    height: 280px;
 }
 
 .projects .card:hover .content h2 {

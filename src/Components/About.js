@@ -64,7 +64,7 @@ const About = () => {
                             <div className='me-lg-0 me-md-1'>
                                 <p><i className="fa-solid fa-angles-right me-2"></i><span className='me-3 fw-bold'>Name -</span>Sachini Wijekoon</p>
                                 <p><i className="fa-solid fa-angles-right me-2"></i><span className='me-3 fw-bold'>Contact No -</span>+94 76 4612347</p>
-                                <p><i className="fa-solid fa-angles-right me-2"></i><span className='me-3 fw-bold'>City -</span>Gokarella</p>
+                                <p><i className="fa-solid fa-angles-right me-2"></i><span className='me-3 fw-bold'>City -</span>Gokarella, Sr Lanka</p>
                             </div>
                             <div>
                                 <p><i className="fa-solid fa-angles-right me-2"></i><span className='me-3 fw-bold'>Degree -</span>BSc(Hons) Computing & Information Systems</p>
@@ -72,7 +72,7 @@ const About = () => {
                             </div>
                         </div>
                         <div className='about-para mt-4'>
-                            <p>I recently graduated from the Department of Computing at the Faculty of Computing, Sabaragamuwa University with a BSc (Hons) degree in Computing and Information Systems. I have done an internship as a trainee Front-end Developer in the second semester of third year. There I used Angular, Bootstrap. I am quite enthusiastic about learning new and emerging technologies, and always looks for something new to try out.</p>
+                            <p>I recently graduated from the Department of Computing and Information Systems at the Faculty of Computing, Sabaragamuwa University with a BSc (Hons) degree in Computing and Information Systems. I have done an internship as a trainee Front-end Developer in the second semester of third year. There I used Angular, Bootstrap. I am quite enthusiastic about learning new and emerging technologies, and always looks for something new to try out.</p>
                         </div>
                         <div className="multiple-animated-progress-bars">
                             {progressBars.map((bar) => (
