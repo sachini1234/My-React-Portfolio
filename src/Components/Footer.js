@@ -25,7 +25,7 @@ function Footer() {
                     </a>
                 </div>
                 <div className='copyright pt-xl-5 pt-3'>
-                    <p>© <strong>Copyright Theja.</strong> All Rights Reserved</p>
+                    <p>© <strong>Copyright Sachini Wijekoon.</strong> All Rights Reserved</p>
                 </div>
             </div>
         </Container>
