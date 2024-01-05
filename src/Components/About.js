@@ -64,7 +64,7 @@ const About = () => {
                             <div className='me-lg-0 me-md-1'>
                                 <p><i className="fa-solid fa-angles-right me-2"></i><span className='me-3 fw-bold'>Name -</span>Sachini Wijekoon</p>
                                 <p><i className="fa-solid fa-angles-right me-2"></i><span className='me-3 fw-bold'>Contact No -</span>+94 76 4612347</p>
-                                <p><i className="fa-solid fa-angles-right me-2"></i><span className='me-3 fw-bold'>City -</span>Gokarella, Sr Lanka</p>
+                                <p><i className="fa-solid fa-angles-right me-2"></i><span className='me-3 fw-bold'>City -</span>Gokarella, Sri Lanka</p>
                             </div>
                             <div>
                                 <p><i className="fa-solid fa-angles-right me-2"></i><span className='me-3 fw-bold'>Degree -</span>BSc(Hons) Computing & Information Systems</p>
